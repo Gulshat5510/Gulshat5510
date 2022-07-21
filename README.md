@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Gulshat5510/Gulshat5510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat-bold&color=%2300F723&size=32&multiline=true&width=700&height=55&lines=Hi+there,+I'm+Gulshat+👋)](https://Gulshat5510.github.io)
 
-Here are some ideas to get you started:
+<!--- <h2 align="center" style="margin: 5px 10px;">My Current Knowledge</h2> 
+Shields.io place some badges 
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">My Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Gulshat5510&show_icons=true&theme=chartreuse-dark)](https://github.com/Gulshat5510)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gulshat5510&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshat5510&theme=chartreuse-dark)](https://github.com/Gulshat5510)
+</div>
