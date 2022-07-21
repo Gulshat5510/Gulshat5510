@@ -5,5 +5,5 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=Gulshat5510&show_icons=true&theme=chartreuse-dark)](https://github.com/Gulshat5510)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gulshat5510&theme=chartreuse-dark)](https://git.io/streak-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshat5510&theme=chartreuse-dark)](https://github.com/Gulshat5510)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshat5510&theme=chartreuse-dark&layout=compact)](https://github.com/Gulshat5510)
 
